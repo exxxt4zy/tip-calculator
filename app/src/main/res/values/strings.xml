@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Калькулятор чаевых</string>
+    <string name="cost_of_service">Стоимость услуги</string>
+    <string name="how_service_question">Как сервис?</string>
+    <string name="amazing_option">Удивительно (20%)</string>
+    <string name="good_option">Хорошо (18%)</string>
+    <string name="okay_option">Ну окей (15%)</string>
+    <string name="round_switch">Округлить?</string>
+    <string name="calculate_button">Расчитать</string>
+    <string name="tip_amount">Сумма чаевых: %s</string>
+</resources>
